@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Develop an application based on video-on-demand websites that provides an extensive database of available content. It should consist of various pages and a global navbar.
 
 - Popular Movies Page (Home Page)
@@ -125,3 +126,6 @@ https://api.themoviedb.org/3/search/movie?api_key=${API_KEY}&language=en-US&quer
 
 <br/>
 <center>**Follow the clean code guidelines**</center>
+=======
+# Movie-Database-App
+>>>>>>> 05b4e01adb9399fc79021a47efbf60a90395c8e8
